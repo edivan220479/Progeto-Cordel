@@ -65,18 +65,19 @@ section.Normal {
     background-color: white;
     color: black;
 }
-section.img {
+section.imagem {
     background-color: rgb(15, 15, 15);
     color: white;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.671);
     background-size: cover;
     background-attachment: fixed;
+   
 }
-section.img >p{
+section.imagem >p{
     display: inline-block;
     padding: 5px;
-    background-color: rgba(0, 0, 0, 0.288);
-    text-shadow: 1px 1px 0px;
+    background-color: rgba(0, 0, 0, 0.514);
+    text-shadow: 1px 1px 0px black;
    
 }
 section#img01{
